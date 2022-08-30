@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Booleaner</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- start -->
+
+    <!-- header -->
+    <header>
+
+        <!-- image/logo -->
+        <div class="container">
+            <img src="img/logo.svg" alt="logo" id="logo">
+        </div>
+        <!-- /image/logo -->
+
+    </header>
+    <!-- /header -->
+
+    <!-- main -->
+    <main class="container">
+
+        <h1>Internet deve essere al servizio del "bene pubblico": il manifesto di Tim Berners-Lee</h1>
+        <h4><strong id="author_title_data">Scritto da</strong> <span id="the_booleaner">The Booleaner</span></h4>
+        <h5 id="author_title_data">il 10/10/2020</h5>
+
+        <!-- importing_images -->
+        <img id="size_1" src="img/tim-1.jpg" alt="Tim Berners-Lee" id="img">
+        <img id="size" src="img/tim-2.jpg" alt="Tim Berners-Lee">
+        <!-- /importing_images -->
+
+        <!-- photo_description -->
+        <h5>1st Photo: Jhon S. and James L. Knight Foundation, by Scoot Henrichsen<br>2nd Photo: Wikimedia, by Paul Clarke</h5>
+        <!-- /photo_description -->
+        
+        <br>
+
+        <p id="last_paragraph">Lorem, ipsum dolor sit amet consectetur adipisicing elit. <span id="highlight">Rerum optio, expedita officiis in consequuntur consectetur enim, quae numquam delectus veritatis totam earum veniam deserunt</span> nulla <br> repellendus non voluptatibus voluptatem possimus.</p>
+
+        <br>
+
+        <!-- list -->
+        <ul>
+            <li>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis enim similique id doloremque in perferendis facilis quo, non nulla reprehenderit laudantium suscipit qui ipsa vitae! Minus exercitationem ipsum vel error.
+            </li>
+
+            <li>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse pariatur, est facere qui, quos vel similique eaque excepturi cum, saepe optio nulla beatae explicabo delectus. Praesentium temporibus autem ex ipsa.
+            </li>
+
+            <li>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat itaque quos aut maxime illo enim doloremque porro iusto ipsam exercitationem magni pariatur ratione, odit fugiat cumque nihil at saepe nobis.
+            </li>
+        </ul>
+        <!-- /list -->
+
+        <br>
+
+                <!-- table -->
+                <table border="0" cellspacing="0" cellpadding="0">
+
+                    <!-- thead -->
+                    <thead>
+                        <tr>
+                            <th class="table_head">
+                                <strong>Lorem ipsum dolor</strong>
+                            </th>
+        
+                            <th class="table_head">
+                                <strong>Lorem ipsum dolor</strong>
+                            </th>
+        
+                            <th class="table_head">
+                                <strong>Lorem ipsum dolor</strong>
+                            </th>
+                        </tr>
+                    </thead>
+                    <!-- /thead -->
+
+                    <!-- tbody1 -->
+                    <tbody>
+                        <tr>
+                            <td class="table_body"><strong>Lorem ipsum dolor</strong></td>
+                            <td class="table_body">
+                                <strong>Lorem ipsum dolor</strong></td>
+                            <td class="table_body">
+                                <strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad impedit vitae <br> inventore pariatur voluptas! Magni doloremque soluta ipsum deleniti, maxime quas. <br> Quos incidunt explicabo vero, soluta porro similique minus vel.</strong></td>
+                        </tr>
+                    </tbody>
+                    <!-- /tbody1 -->
+
+                    <!-- tbody2 -->
+                    <tbody>
+                        <tr>
+                            <td>
+                                <strong>Lorem ipsum dolor</strong></td>
+                            <td>
+                                <strong>Lorem ipsum dolor</strong></td>
+                            <td>
+                                <strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad impedit vitae <br> inventore pariatur voluptas! Magni doloremque soluta ipsum deleniti, maxime quas. <br> Quos incidunt explicabo vero, soluta porro similique minus vel.</strong></td>
+                        </tr>
+                    </tbody>
+                    <!-- /tbody2 -->
+
+                    <!-- tbody3 -->
+                    <tbody>
+                        <tr>
+                            <td class="table_body">
+                                <strong>Lorem ipsum dolor</strong></td>
+                            <td class="table_body">
+                                <strong>Lorem ipsum dolor</strong></td>
+                            <td class="table_body"><strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad impedit vitae <br> inventore pariatur voluptas! Magni doloremque soluta ipsum deleniti, maxime quas. <br> Quos incidunt explicabo vero, soluta porro similique minus vel.</strong></td>
+                        </tr>
+                    </tbody>
+                    <!-- /tbody3 -->
+
+                </table>
+                <!-- /table -->
+
+        <p id="last_paragraph">Lorem, ipsum dolor sit amet consectetur adipisicing elit. <span id="highlight">Rerum optio, expedita officiis in consequuntur consectetur enim, quae numquam delectus veritatis totam earum veniam deserunt</span> nulla <br> repellendus non voluptatibus voluptatem possimus.</p>
+
+    </main>
+    <!-- /main -->
+
+    <br>
+
+    <!-- footer -->
+    <footer class="container">
+        <h4 id="footer_title">Potrebbero interessarti</h4>
+
+        <div id="monitor">
+            <h3 id="white">Lorem ipsum dolor</h3>
+        </div>
+
+        <div id="graph">
+            <h3 id="white">Lorem ipsum dolor</h3>
+        </div>
+
+    </footer>
+    <!-- /footer -->
+
+    <!-- end -->
+</body>
+</html>
